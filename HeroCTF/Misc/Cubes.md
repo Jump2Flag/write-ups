@@ -17,5 +17,5 @@ Villager Spawn Egg
 Ender pearl
 ```
 
-En prenant uniquement la première lettre de chaque non, on obtient le flag.<br>
+En prenant uniquement la première lettre de chaque nom, on obtient le flag.<br>
 Hero{iamsteve}

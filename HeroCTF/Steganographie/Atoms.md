@@ -1,4 +1,4 @@
-![[Pasted image 20210426185752.png]]
+![Screen](../img/Pasted%20image%2020210426185752.png)
 La suite de caractère `MtMdDsFmMdHsMdMdUuo` est étrange, mais avec le titre et le nom donné dans l'énoncé (Dmitri), il est simple de deviner qu'il faut utiliser le ableau périodique des éléments.
 
 il suffisait de trouver le numéro atomique lié au nom de l'élément.
@@ -16,6 +16,6 @@ Uuo = Oganesson | 118
 109 101 110 100 101 108 101 101 118
 ```
 Et là, plus qu'à envoyer ces chiffres dans un convertir ascii to text:
-![[Pasted image 20210426190202.png]]
-
+![Screen](../img/Pasted%20image%2020210426190202.png)
+<br>
 Flag: Hero{mendeleev}

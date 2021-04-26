@@ -2,8 +2,6 @@
 
 #### Jump2Flag s'est classé 20/293 en junior et 39/645 en global, avec 1821 points
 
-### Liste de toutes les write up :
-
 ##### Web:
 - [PwnQl #1](https://github.com/Jump2Flag/write-up/blob/main/HeroCTF/web/PwnQL-1.md)
 - [0xSSRF](https://github.com/Jump2Flag/write-up/blob/main/HeroCTF/web/0xSSRF.md)

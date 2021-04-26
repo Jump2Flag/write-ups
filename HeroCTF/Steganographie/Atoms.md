@@ -1,6 +1,6 @@
 ![Screen](../img/Pasted%20image%2020210426185752.png)
 
-La suite de caractère `MtMdDsFmMdHsMdMdUuo` est étrange, mais avec le titre et le nom donné dans l'énoncé (Dmitri), il est simple de deviner qu'il faut utiliser le ableau périodique des éléments.
+La suite de caractère `MtMdDsFmMdHsMdMdUuo` est étrange, mais avec le titre et le nom donné dans l'énoncé (Dmitri), il est simple de deviner qu'il faut utiliser le tableau périodique des éléments.
 
 il suffisait de trouver le numéro atomique lié au nom de l'élément.
 ```

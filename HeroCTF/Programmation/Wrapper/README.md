@@ -30,13 +30,9 @@ nc.recvline()
 
 cipher = nc.recvline().decode().strip()
 
-print(cipher)
-
 charsB32 = [i for i in string.ascii_uppercase+"234567="]
 charsHex = [i for i in string.hexdigits]
 charsBin = ["0","1"]
-
-print(charsHex)
 
 while cipher.find("pass:") == -1:
     z, y, x = 0, 0, 0

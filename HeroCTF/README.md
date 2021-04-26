@@ -12,12 +12,12 @@
 ##### Steganographie:
 - [Atoms](https://github.com/Jump2Flag/write-up/blob/main/HeroCTF/Steganographie/Atoms.md)
 
-Osint:
+##### Osint:
 - [Find me](https://github.com/Jump2Flag/write-up/blob/main/HeroCTF/osint/Find%20me.md)
 
-Misc:
+##### Misc:
 - [Cubes](https://github.com/Jump2Flag/write-up/blob/main/HeroCTF/Misc/Cubes.md)
 
-Programmation:
+##### Programmation:
 - [Rerecaptcha v1](https://github.com/Jump2Flag/write-up/tree/main/HeroCTF/Programmation/Rerecaptcha_v1)
 - [Wrapper](https://github.com/Jump2Flag/write-up/tree/main/HeroCTF/Programmation/Wrapper)

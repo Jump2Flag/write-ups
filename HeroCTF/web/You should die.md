@@ -1,7 +1,7 @@
-![[Pasted image 20210426185401.png]]
+![Screen](../img/Pasted%20image%2020210426185401.png)
 
 Une fois sur le site, dans les commentaires HTML on voit qu'il y a un fichier `.bak`
-![[Pasted image 20210426185453.png]]
+![Screen](../img/Pasted%20image%2020210426185453.png)
 
 il contient le code suivant:
 ```php
@@ -22,4 +22,4 @@ Le code est plutôt simple. Si on n'est pas connecté on est redirigé. Seulemen
 Une petite requête curl, et voilà le flag!
 `curl http://chall1.heroctf.fr:9000/admin.php`
 
-![[Pasted image 20210426185710.png]]
+![Screen](../img/Pasted%20image%2020210426185710.png)

@@ -21,7 +21,7 @@ def make_stuff():
 
 def weird_function_1(s): #s = OooO
 
-    # liste en binaire sur un octet (8digits) / 3 colonnes => convertion en 1 seules de colonnes
+    # liste en binaire sur un octet (8digits) / 3 colonnes => convertion en 1 seules colonne
     return sum([list(map(int,bin(ord(c))[2:].zfill(8))) for c in s], [])
 
 def do_magic(OooO, B):

@@ -72,7 +72,7 @@ PossibleCharsUsed = string.printable[:-6]
 
 flag = ""
 
-# on parcourt le tableau L afin de déchiffrer chaque bloque et reconstituer le flag
+# on parcourt le tableau L afin de déchiffrer chaque block et reconstituer le flag
 for block in L:
     # on test chaque lettres de PossibleCharsUsed jusqu'à trouver la bonne correspondance entre block et les lettres possible
     # sachant qu'il y a 3 lettres par block sauf potenciellement le dernier qui peut-être de 1,2 ou 3 lettres.

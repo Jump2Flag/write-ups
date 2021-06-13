@@ -74,7 +74,7 @@ Out[4]: '6af77caf790bd6999c58334bcacc713f1875bd35'
 
 ``6af77caf790bd6999c58334bcacc713f1875bd35``  =  ``061768``
 
-On passe de 667018 à 061768, Mmmmmmh, les chiffres donc mélangé la manière suivant :
+On passe de 667018 à 061768, Mmmmmmh, les chiffres sont donc mélangé de la manière suivant :
 
 ```
 a=667018

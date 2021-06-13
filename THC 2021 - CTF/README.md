@@ -2,7 +2,7 @@
 
 ## Énoncé :
 
-![](/home/fayred/.var/app/com.github.marktext.marktext/config/marktext/images/2021-06-13-16-49-35-image.png)
+![](https://i.imgur.com/8JYb0Wx.png)
 
 Aussitôt dl, on lance un ltrace :
 

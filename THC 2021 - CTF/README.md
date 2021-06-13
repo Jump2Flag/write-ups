@@ -96,7 +96,7 @@ In [51]: a="667018"
 160678 # le bon PIN
 ```
 
-On récupère obtiens donc le PIN : ``160678``
+On obtiens donc le PIN : ``160678``
 
 Manque plus qu'à tester le PIN sur le binaire :
 

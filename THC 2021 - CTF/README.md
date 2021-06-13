@@ -84,7 +84,7 @@ a=a[3]+a[1]+a[4]+a[2]+a[0]+a[5]
 Il faut donc faire le mélange jusqu'à retomber sur ``667018`` et récupérer la valeur précédente.
 
 ```python
-In [51]: a="667018"
+In [5]: a="667018"
     ...: while 1:
     ...:     a=a[3]+a[1]+a[4]+a[2]+a[0]+a[5]
     ...:     if a == "667018":

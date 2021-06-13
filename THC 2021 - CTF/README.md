@@ -81,7 +81,7 @@ a=667018
 a=a[3]+a[1]+a[4]+a[2]+a[0]+a[5]
 ```
 
-Il faut donc faire le mélange jusqu'à retomber sur ``667018`` et récupéré la valeur précédente.
+Il faut donc faire le mélange jusqu'à retomber sur ``667018`` et récupérer la valeur précédente.
 
 ```python
 In [51]: a="667018"

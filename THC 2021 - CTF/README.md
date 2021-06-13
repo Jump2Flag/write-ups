@@ -76,9 +76,6 @@ Out[4]: '6af77caf790bd6999c58334bcacc713f1875bd35'
 
 On passe de 667018 à 061768, Mmmmmmh, les chiffres donc mélangé la manière suivant :
 
-
-
-
 ```
 a=667018
 a=a[3]+a[1]+a[4]+a[2]+a[0]+a[5]

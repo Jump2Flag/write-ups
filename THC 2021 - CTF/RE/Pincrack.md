@@ -22,9 +22,9 @@ exit(0 <no return ...>
 +++ exited (status 0) +++
 ```
 
-On voit que lors que l'execution, le programme fait appel à des fonctions pour hacher le pin entré en sha1 et le compare avec ``strcmp`` à un autre hash.
+On voit que lors de l'execution, le programme fait appel à des fonctions pour hacher le pin entré en sha1 et le compare avec ``strcmp`` à un autre hash.
 
-On ce doute bien que la seconde chaine est le hash du pin à trouver.
+On se doute bien que la seconde chaine est le hash du pin à trouver.
 
 On va donc reconstituer le hash en hexa et trouver à quelle valeur celui-ci correspond.
 
@@ -74,7 +74,7 @@ Out[4]: '6af77caf790bd6999c58334bcacc713f1875bd35'
 
 ``6af77caf790bd6999c58334bcacc713f1875bd35``  =  ``061768``
 
-On passe de 667018 à 061768, Mmmmmmh, les chiffres sont donc mélangé de la manière suivante :
+On passe de 667018 à 061768, Mmmmmmh, les chiffres sont donc mélangés de la manière suivante :
 
 ```
 a="667018"

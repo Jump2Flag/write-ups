@@ -71,7 +71,6 @@ Out[4]: '6af77caf790bd6999c58334bcacc713f1875bd35'
 ```
 
 ![](/home/fayred/.var/app/com.github.marktext.marktext/config/marktext/images/2021-06-13-17-08-30-image.png)
-
 ``6af77caf790bd6999c58334bcacc713f1875bd35``  =  ``061768``
 
 On passe de 667018 à 061768, Mmmmmmh, les chiffres sont donc mélangés de la manière suivante :

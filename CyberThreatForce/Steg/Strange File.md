@@ -19,7 +19,7 @@ $ hd PNG_transparency_demonstration_1.png | head
 00000090  b7 2c 19 8e 6c 8f 1c 9f  3e 1d 39 26 a9 8f ec 8f  |.,..l...>.9&....|
 000000a0  eb b6 2d d3 ba a6 2f 1e  49 da 24 75 01 00 f0 cd  |..-.../.I.$u....|
 
-hd 74df9ed7b79cfcbca84002619b670802.png | head
+$ hd 74df9ed7b79cfcbca84002619b670802.png | head
 00000000  d9 10 3d 34 7a 3a 2a 78  64 50 40 7e 3a 3f 74 62  |..=4z:*xdP@~:?tb|
 00000010  72 64 50 eb 73 73 77 af  38 74 64 50 40 f5 70 5e  |rdP.ssw.8tdP@.p^|
 00000020  92 30 72 2d 05 3a 27 2b  03 62 51 05 44 20 32 1c  |.0r-.:'+.bQ.D 2.|

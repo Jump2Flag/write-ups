@@ -66,7 +66,7 @@ In [8]: open("recoverImage.png", "wb").write(recoverImage)
 
 <img title="" src="https://i.imgur.com/GgXxlnm.png" alt="ff" width="196">
 
-L'image restauré est un qr code, cependant je n'ai pas réussi à trouver un site qui le decode correctement. J'ai donc utiliser mon téléphone.
+L'image restauré est un qr code, cependant je n'ai pas réussi à trouver un site qui le decode correctement. J'ai donc utilisé mon téléphone.
 
 ![https](https://i.imgur.com/xbNJuQN.jpg)
 

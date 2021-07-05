@@ -2,7 +2,7 @@
 
 Dans ce challenge en stéganographie, on nous donne un fichier ``74df9ed7b79cfcbca84002619b670802.png``.
 
-Au vu de l'extension on se doute que le fichier est une image, cepedant elle ne charge pas, on se dit donc que c'est certainement xoré.
+Au vu de l'extension on se doute que le fichier est une image, cependant elle ne charge pas, on se dit donc que c'est certainement xoré.
 
 Pour trouver la clé avec lequel l'image a été xoré, il nous faut tout d'abord le header PNG d'une image valide, on dl donc une image PNG valide et on regarde
  le header fournie.

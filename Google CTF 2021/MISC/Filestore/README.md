@@ -152,7 +152,7 @@ Nous pouvons voir que le flag est stocké dans ``blob`` et est accessible avec u
 
 Dans ce script, on va s'intéresser au fonctionnement de la fonction ``store`` et de l'utilisation de la fonction ``status`` nous permettant de trouver le flag.
 
-Grosso modo la fonction ``store`` va stocker les valeurs 16 caractères par 16 caractères et si les 16 caractères entré sont déjà dans ``blob`` , dans le même ordre, alors ils ne seront pas ajouté à ``blob``, le dictionnaire ``files`` aura une clé généré aléatoirement et aura les valeurs correspondant à l'emplacement des caractères voulant être stocké.
+Grosso modo la fonction ``store`` va stocker les valeurs 16 caractères par 16 caractères et si une partie des 16 caractères entré sont déjà dans ``blob`` , dans le même ordre, alors ils ne seront pas ajouté à ``blob``, le dictionnaire ``files`` aura une clé généré aléatoirement et aura les valeurs correspondant à l'emplacement des caractères voulant être stocké.
 
 Maintenant que l'on sait ça, testons de stocker la valeur ``CTF{``, normalement aucune valeur ne sera ajouté à ``blob`` et donc la taille de celui-ci ne changera pas, ont pourra voir cela avec la commande ``status`` qui affiche la place utilisé dans ``blob``.
 

@@ -148,6 +148,7 @@ except Exception:
     print("Nope.")
 time.sleep(1)
 ```
+Nous pouvons voir que le flag est stocké dans ``blob`` et est accessible avec la clé (généré aléatoirement) dans le dictionnaire ``file``.
 
 Dans ce script, on va s'intéresser au fonctionnement de la fonction ``store`` et de l'utilisation de la fonction ``status`` nous permettant de trouver le flag.
 

@@ -200,7 +200,7 @@ Menu:
 - exit
 ```
 
-Nous voyons bien que la taille n'a pas changé, il est toujours de **0.026kb** après le stockage de ``CTF{``.
+Nous voyons bien que la taille n'a pas changé, elle est toujours de **0.026kb** après le stockage de ``CTF{``.
 
 Nous pouvons donc connaitre le flag car si le(s) caractère(s) ajouté à ``CTF{`` ne correspondent pas à une partie du flag, la taille augmentera.
 

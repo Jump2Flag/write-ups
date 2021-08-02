@@ -8,7 +8,7 @@ On va donc sur le serveur discord de l'[UIUCTF 2021](https://discord.gg/E6BAsrhg
 
 Une fois dessus on voit qu'il y a une émote `:emote:` de disponible qui a le même nom que le challenge et qui est suspecte, c'est certainement une décomposition pixelisé, le blanc = 1 et la noir = 0, ce qui nous fera une représentation binaire et donc une correspondance en caractères de la table ascii.
 
-On télécharge donc l'image et on la décode sur [dcode]([Convertir une Image en Binaire - Pixels 0 et 1 en Ligne](https://www.dcode.fr/image-binaire)) :
+On télécharge donc l'image et on la décode sur [dcode](https://www.dcode.fr/image-binaire) :
 
 ![dcode-decomp-pix](https://i.imgur.com/23WRvPx.png)
 

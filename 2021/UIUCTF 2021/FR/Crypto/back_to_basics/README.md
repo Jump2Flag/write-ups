@@ -2,7 +2,7 @@
 
 ![](https://i.imgur.com/58CC9k7.png)
 
-Dans ce challenge, deux fichiers sont données un fichier ``main.py`` et un fichier ``flag_enc`` . 
+Dans ce challenge, deux fichiers sont donnés un fichier ``main.py`` et un fichier ``flag_enc`` . 
 
 Pour commencer annalysons le fichier ``main.py`` :
 

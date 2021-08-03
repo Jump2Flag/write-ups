@@ -108,4 +108,4 @@ $ python3 solve.py
 [+] KEY : 5JDJXBAJRC8Z5MW
 ```
 
-Bingo !! Suffit de valider avec la flag : ``uiuctf{r4DixAL}`` !!
+Bingo !! Suffit de valider avec le flag : ``uiuctf{r4DixAL}`` !!

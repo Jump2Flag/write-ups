@@ -24,7 +24,7 @@ On voit donc que notre input est move dans ``edx`` puis dans ``dword [rbp + rax*
 
 Ensuite une fonction nommé ``getMaxPrimeFactor`` est appélé ainsi que ``printf`` qui affiche le retour de cette fonction prenant en argument notre input (on va pas s'interesser plus que ca à la fonction ``getMaxPrimeFactor``, car on a pas besoin de savoir ce qu'elle fait pour résoudre le challenge).
 
-Et grosso modo on répète tous ca 5fois (on aura donc a rentré 5 fois un nombre entre 0 et 100 000).
+Et grosso modo on répète tous ca 5 fois (on aura donc à rentrer 5 fois un nombre entre 0 et 100 000).
 
 Une fois sortie de la boucle on continue vers ``0x000012e1`` :
 

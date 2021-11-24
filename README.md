@@ -1,6 +1,6 @@
 ### J2F WRITE-UP
 
-Members :
+Membres :
 - RedAmber
 - Nameless-chan
 - Tengu

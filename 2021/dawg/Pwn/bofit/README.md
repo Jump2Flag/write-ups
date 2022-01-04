@@ -1,4 +1,4 @@
-![Screen](../../img/home.png)
+![Screen](./img/home.png)
 
 Le script utilisé pour l'exploit, le binaire et le code source sont dispo dans le même dossier que ce fichier.
 

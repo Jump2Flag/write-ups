@@ -3,7 +3,7 @@
 Membres :
 - RedAmber
 - Nameless-chan
-- Tengu
+- Tengu (ancien)
 - Fayred
 - Electro 
 - Neolex
